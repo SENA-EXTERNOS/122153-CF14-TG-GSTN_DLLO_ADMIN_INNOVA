@@ -16,8 +16,7 @@
 
       .col-md-6.col-lg-8
         p.mb-5 Para la definición de este concepto, es vital comprender, que mediante este mecanismo podremos dar lectura, interpretación y síntesis a los datos que sean objeto de estudio, por lo cual distribuiremos los parámetros en tres grandes componentes, que de acuerdo con las denominaciones estadísticas, se subdividen bajo los conceptos abordados en la figura 1.
-
-    p.mb-5 Dentro de estos <b>nuevos y modernos</b> modelos de estructuras organizacionales, podemos mencionar las siguientes:        
+      
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -40,7 +39,7 @@
     p.mb-5 A continuación, se explica cada uno de estos criterios:
 
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="Comunicación interna")
+      .py-3.py-md-4(titulo="Media aritmética")
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
@@ -125,7 +124,7 @@
       li 
         i.fas.fa-square
         | 
-        h3.text-black Parámetros de posición
+        h3.text-black Parámetros de dispersión 
 
     p.mb-5 Son establecidos para interpretar cuando se alejan de la parte central, los valores de distribución datos.
 

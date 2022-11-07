@@ -16,7 +16,7 @@
 
       .col-md-6.col-lg-8
 
-        .cajon.color-acento-botones.p-4.mb-5.fnd-2
+        .cajon.color-primario.p-4.mb-5.fnd-3
           p En primer lugar, se aborda el concepto de la estadística, la cual consiste en recoger datos para clasificarlos y presentarlos adecuadamente, para esto se requiere de una organización y análisis de la información, de tal modo que sirvan para la posterior toma de decisiones.
 
         p.mb-5 Es utilizada científicamente pero también de manera rutinaria por las personas, que en muchas ocasiones la emplean desconociendo su interpretación, comúnmente es y ha sido aplicada a lo largo de la historia de la humanidad, en diferentes áreas del conocimiento y en diferentes conductas sociales; dada su naturaleza y su método es una ciencia exacta, porque permite experimentar las probabilidades con argumentos que desarrollan o crean métodos, los cuales permiten evaluar el comportamiento de las tendencias, asumiendo como objetivo el estudio de conjuntos numerosos de personas, animales, objetos de cualquier clase o cualquier tipo de información, entre otras, que puedan ser recopiladas y analizadas para la orientación al planteamiento de necesidades.
@@ -53,6 +53,7 @@
             img(src='@/assets/curso/temas/tema1/img-2.svg')
 
     p.mb-5 Por otra parte, para definir una población y tomar el tamaño de la muestra correctamente, se deben tener en cuenta algunos detalles.
+    p.mb-5 Analice atentamente cada uno de ellos:
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-4

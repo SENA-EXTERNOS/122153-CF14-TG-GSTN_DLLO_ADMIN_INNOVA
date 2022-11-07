@@ -211,10 +211,10 @@
                 ul.lista-ul--color.nar
                   li 
                     i.fas.fa-check
-                    | En la columna de frecuencia absoluta Fi, debe obtener la cantidad total de los encuestados.
+                    | En la columna de frecuencia absoluta<em> Fi</em>, debe obtener la cantidad total de los encuestados.
                   li 
                     i.fas.fa-check
-                    | En la columna de frecuencia relativa fr, la suma al final debe estar al 0,99 o al número 1 cerrado, este resultado, le da el parámetro que están bien registrados los datos.
+                    | En la columna de frecuencia relativa <em>fr</em>, la suma al final debe estar al 0,99 o al número 1 cerrado, este resultado, le da el parámetro que están bien registrados los datos.
                   li 
                     i.fas.fa-check
                     | El resultado de la columna de porcentaje, al final de la sumatoria, ponderará un total de 100.
@@ -248,7 +248,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.p-y-5
             h3 Diagrama de barras
-            p Es una representación en dos dimensiones de la frecuencia, sea absoluta o relativa, de una variable cuantitativa o cualitativa, pero siempre discreta y distribuida en filas.
+            p Es una representación en dos dimensiones de la frecuencia, sea <b>absoluta</b> o <b>relativa</b>, de una variable cuantitativa o cualitativa, pero siempre discreta y distribuida en filas.
           .col-md-6
             figure
               img.img-303(src='@/assets/curso/temas/tema3/img-7.svg')
@@ -262,7 +262,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.p-y-5
             h3 Tallo y hoja
-            p Es un semigráfico que permite presentar la distribución de una variable cuantitativa. Consiste en separar cada dato en el último dígito (que se denomina hoja) y las cifras delanteras restantes (que forman el tallo).
+            p Es un semigráfico que permite presentar la distribución de una variable cuantitativa. Consiste en separar cada dato en el último dígito (que se denomina<b> hoja</b>) y las cifras delanteras restantes (que forman el <b>tallo</b>).
           .col-md-6
             figure
               img.img-303(src='@/assets/curso/temas/tema3/img-9.svg')
