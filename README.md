@@ -1,4 +1,4 @@
-# **sena-base-2021 v6.2.1**
+# **Etapas del procesamiento de datos y métodos estadísticos** sena-base-2021 v6.2.1
 
 ## **Enlace GitHubPages**
 

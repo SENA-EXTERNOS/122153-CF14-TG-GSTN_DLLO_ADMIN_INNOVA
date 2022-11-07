@@ -1,19 +1,135 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: -10.4%
+    z-index: -1
+    width: 115%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 17%
+    right: 79%
+    width: 26%
+    
+  &-3
+    animation: float3 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 67%
+    right: 84%
+    width: 31%    
+  &-4
+    animation: float4 2.5s ease-in-out infinite alternate
+    position: absolute
+    top: 62%
+    right: 12%
+    width: 31%
 
+.banner-principal__img    
+  z-index: 2
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(6px)
 
   100%
     transform: translateY(0px)
+    
+@keyframes float2
+  0%
+    transform: rotate(8deg)
+
+  100%
+    transform: translateY(0px)    
+@keyframes float3
+  0%
+    transform: translateX(12px)
+
+  100%
+    transform: translateY(0px)
+@keyframes float4
+  0%
+    transform: translateY(15px)
+
+  100%
+    transform: translateY(0px)
+
+.banner-principal__img
+  img 
+    width: 70%  !important
+.img-66
+  width: 66px
+.img-75
+  width: 230px 
+.img-303
+  width: 303px
+  justify-content: center!important
+  display: block
+  margin: 0 auto     
+.hh1
+  height: 218px
+.fnd-1
+  background-color: #CDE5C0 !important
+.fnd-2
+   background-color:#FEE9E0 !important   
+.fnd-3
+  background-color: #EDF6E4 !important     
+.fnd-4
+  background-color: #FAFCE1 !important  
+.fnd-4-
+  background-color: #FAFCE1 !important  
+  border: 3px solid $color-secundario !important 
+.fnd-5 
+  background-color: #EAF086 !important 
+  border-radius: 30px !important
+.fnd-6
+  background-color: #ACD382 !important 
+  width: 100% !important  
+.fnd-6-    
+  background-color:  #EAF086 !important
+  width: 100% !important
+.fnd-7
+  background-color: #E9E9E9 !important  
+
+.ini
+  display: inline-block
+  padding-top: 60px !important
+  height: 100%
+  border-radius: 0px !important
+
+
+
+.b-r-i
+  border-radius: 30px 0px 0px 30px !important
+.b-r-d  
+  border-radius: 0px 30px 30px 0px !important  
+.grs
+  .tabs-a__tab
+    background-color: #E8E8E8 !important
+  .tabs-a__tab__selected
+    background: $color-acento-contenido !important
+  .tabs-a__tab:hover
+    background: $color-acento-contenido !important
+    color: #black    
+.fl-a .slyder-a__btn--sigt, .slyder-a__btn--atrs, .slyder-a__bullets__item
+ background-color: #DCE736 !important    
+
+.nar li > i:first-of-type 
+  color: $color-acento-botones !important
+
+.img-infografica__item, .img-infografica-b__item 
+    width: 4.5%
+.img-infografica.color-acento-botones .img-infografica__item__numero,
+  color: #fff !important      
+.row2
+    padding-right: 0px !important
+    padding-left: 0
+
+.b-tb
+  border: 3px solid $color-primario
+
+.slyder-a__bullets__item--active 
+    background-color: #3D46C2 !important
+
+ 
