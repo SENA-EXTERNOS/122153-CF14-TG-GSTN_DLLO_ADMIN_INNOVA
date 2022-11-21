@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="390.67" viewBox="0 0 820 390.67">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_200963" data-name="Trazado 200963" d="M1906.865,370.309v19.92a22.2,22.2,0,0,0,22.2,22.2H2054.5a22.2,22.2,0,0,0,22.2-22.2v-19.92a5.017,5.017,0,0,1,5.017-5.017H1901.848A5.017,5.017,0,0,1,1906.865,370.309Z" transform="translate(-1901.848 -365.292)" fill="#dce736"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_200963-4" data-name="Trazado 200963" d="M6.661,6.661V33.111A29.475,29.475,0,0,0,36.136,62.585H202.687a29.474,29.474,0,0,0,29.474-29.474V6.661A6.661,6.661,0,0,1,238.822,0H0A6.661,6.661,0,0,1,6.661,6.661Z" fill="#dce736"/>
+    </clipPath>
+    <image id="image" width="179.952" height="10.368" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g id="Grupo_150122" data-name="Grupo 150122" transform="translate(6555 11064.62)">
+    <g id="Grupo_149987" data-name="Grupo 149987" transform="translate(-6950 -11838.95)">
+      <g id="Grupo_149568" data-name="Grupo 149568" transform="translate(395 821.915)">
+        <g id="Grupo_149559" data-name="Grupo 149559" transform="translate(0 66.932)">
+          <g id="Grupo_149558" data-name="Grupo 149558">
+            <path id="Trazado_200962" data-name="Trazado 200962" d="M1906.865,370.309v19.92a22.2,22.2,0,0,0,22.2,22.2H2054.5a22.2,22.2,0,0,0,22.2-22.2v-19.92a5.017,5.017,0,0,1,5.017-5.017H1901.848A5.017,5.017,0,0,1,1906.865,370.309Z" transform="translate(-1901.848 -365.292)" fill="#dce736"/>
+            <g id="Grupo_149557" data-name="Grupo 149557" transform="translate(0)" clip-path="url(#clip-path)">
+              <use id="Rectángulo_295770" data-name="Rectángulo 295770" transform="translate(-0.029 -0.165)" xlink:href="#image" style="mix-blend-mode: screen;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_149560" data-name="Grupo 149560" transform="translate(319.811 66.932)">
+          <g id="Grupo_149558-2" data-name="Grupo 149558">
+            <path id="Trazado_200962-2" data-name="Trazado 200962" d="M1906.865,370.309v19.92a22.2,22.2,0,0,0,22.2,22.2H2054.5a22.2,22.2,0,0,0,22.2-22.2v-19.92a5.017,5.017,0,0,1,5.017-5.017H1901.848A5.017,5.017,0,0,1,1906.865,370.309Z" transform="translate(-1901.848 -365.292)" fill="#dce736"/>
+            <g id="Grupo_149557-2" data-name="Grupo 149557" transform="translate(0)" clip-path="url(#clip-path)">
+              <use id="Rectángulo_295770-2" data-name="Rectángulo 295770" transform="translate(-0.029 -0.165)" xlink:href="#image" style="mix-blend-mode: screen;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_149561" data-name="Grupo 149561" transform="translate(639.622 66.932)">
+          <g id="Grupo_149558-3" data-name="Grupo 149558">
+            <path id="Trazado_200962-3" data-name="Trazado 200962" d="M1906.865,370.309v19.92a22.2,22.2,0,0,0,22.2,22.2H2054.5a22.2,22.2,0,0,0,22.2-22.2v-19.92a5.017,5.017,0,0,1,5.017-5.017H1901.848A5.017,5.017,0,0,1,1906.865,370.309Z" transform="translate(-1901.848 -365.292)" fill="#dce736"/>
+            <g id="Grupo_149557-3" data-name="Grupo 149557" transform="translate(0)" clip-path="url(#clip-path)">
+              <use id="Rectángulo_295770-3" data-name="Rectángulo 295770" transform="translate(-0.029 -0.165)" xlink:href="#image" style="mix-blend-mode: screen;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_149564" data-name="Grupo 149564" transform="translate(85)">
+          <line id="Línea_577" data-name="Línea 577" y2="16.763" transform="translate(5.809 32.479)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="3"/>
+          <g id="Grupo_149563" data-name="Grupo 149563" transform="translate(0)">
+            <line id="Línea_569" data-name="Línea 569" x1="639.094" transform="translate(5.809 33.301)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+            <g id="Grupo_114594" data-name="Grupo 114594" transform="translate(317.545)">
+              <line id="Línea_576" data-name="Línea 576" y2="49.243" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+              <path id="Trazado_158597" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -82.717)" fill="#3d46c2"/>
+            </g>
+            <path id="Trazado_158597-2" data-name="Trazado 158597" d="M139.07,131.96h11.617l-5.809,5.809-5.809-5.809Z" transform="translate(-139.07 -82.717)" fill="#3d46c2"/>
+            <g id="Grupo_114604" data-name="Grupo 114604" transform="translate(638.004 33.611)">
+              <line id="Línea_579" data-name="Línea 579" y2="16.763" transform="translate(5.809)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+              <path id="Trazado_158597-3" data-name="Trazado 158597" d="M1188.5,133.31h11.617l-5.808,5.809-5.809-5.809Z" transform="translate(-1188.5 -116.547)" fill="#3d46c2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_149566" data-name="Grupo 149566" transform="translate(710.878 997)">
+        <g id="Rectángulo_295771" data-name="Rectángulo 295771" fill="#fff" stroke="#75b62f" stroke-width="3">
+          <rect width="189" height="40" rx="20" stroke="none"/>
+          <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+        </g>
+        <g id="Rectángulo_295772" data-name="Rectángulo 295772" transform="translate(0 64)" fill="#fff" stroke="#75b62f" stroke-width="3">
+          <rect width="189" height="40" rx="20" stroke="none"/>
+          <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+        </g>
+        <g id="Rectángulo_295773" data-name="Rectángulo 295773" transform="translate(0 128)" fill="#fff" stroke="#75b62f" stroke-width="3">
+          <rect width="189" height="40" rx="20" stroke="none"/>
+          <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_149569" data-name="Grupo 149569" transform="translate(923.668 836.915) rotate(180)">
+        <g id="Grupo_149558-4" data-name="Grupo 149558" transform="translate(0)">
+          <path id="Trazado_200962-4" data-name="Trazado 200962" d="M6.661,6.661V33.111A29.475,29.475,0,0,0,36.136,62.585H202.687a29.474,29.474,0,0,0,29.474-29.474V6.661A6.661,6.661,0,0,1,238.822,0H0A6.661,6.661,0,0,1,6.661,6.661Z" transform="translate(0)" fill="#dce736"/>
+          <g id="Grupo_149557-4" data-name="Grupo 149557" transform="translate(0)" clip-path="url(#clip-path-4)">
+            <use id="Rectángulo_295770-4" data-name="Rectángulo 295770" transform="translate(-0.039 -0.219) scale(1.328 1.328)" xlink:href="#image" style="mix-blend-mode: screen;isolation: isolate"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_149570" data-name="Grupo 149570" transform="translate(485.244 941.133)">
+        <line id="Línea_576-2" data-name="Línea 576" y2="49.243" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Trazado_158597-4" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -82.717)" fill="#3d46c2"/>
+      </g>
+      <g id="Grupo_149571" data-name="Grupo 149571" transform="translate(799.323 941.949)">
+        <line id="Línea_576-3" data-name="Línea 576" y2="49.243" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Trazado_158597-5" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -82.717)" fill="#3d46c2"/>
+      </g>
+      <g id="Grupo_149572" data-name="Grupo 149572" transform="translate(1121.243 941.133)">
+        <line id="Línea_576-4" data-name="Línea 576" y2="49.243" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Trazado_158597-6" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -82.717)" fill="#3d46c2"/>
+      </g>
+      <g id="Grupo_149575" data-name="Grupo 149575" transform="translate(800.482 1037.133)">
+        <line id="Línea_576-5" data-name="Línea 576" y2="16.651" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Trazado_158597-7" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -115.309)" fill="#3d46c2"/>
+      </g>
+      <g id="Grupo_149576" data-name="Grupo 149576" transform="translate(800.482 1100.133)">
+        <line id="Línea_576-6" data-name="Línea 576" y2="16.651" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Trazado_158597-8" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -115.309)" fill="#3d46c2"/>
+      </g>
+      <text id="Parámetros_estadísticos" data-name="Parámetros estadísticos" transform="translate(714.741 792)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Parámetros estadísticos</tspan></text>
+      <text id="Centralización" transform="translate(433.243 905)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Centralización</tspan></text>
+      <text id="Cuartiles" transform="translate(775.864 1006)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Cuartiles</tspan></text>
+      <text id="Deciles" transform="translate(782.947 1072)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Deciles</tspan></text>
+      <g id="Grupo_149579" data-name="Grupo 149579" transform="translate(395 997)">
+        <g id="Grupo_149565" data-name="Grupo 149565">
+          <g id="Rectángulo_295771-2" data-name="Rectángulo 295771" fill="#fff" stroke="#75b62f" stroke-width="3">
+            <rect width="189" height="40" rx="20" stroke="none"/>
+            <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+          </g>
+          <g id="Rectángulo_295772-2" data-name="Rectángulo 295772" transform="translate(0 64)" fill="#fff" stroke="#75b62f" stroke-width="3">
+            <rect width="189" height="40" rx="20" stroke="none"/>
+            <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+          </g>
+          <g id="Rectángulo_295773-2" data-name="Rectángulo 295773" transform="translate(0 128)" fill="#fff" stroke="#75b62f" stroke-width="3">
+            <rect width="189" height="40" rx="20" stroke="none"/>
+            <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_149573" data-name="Grupo 149573" transform="translate(89.622 40.133)">
+          <line id="Línea_576-7" data-name="Línea 576" y2="16.651" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_158597-9" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -115.309)" fill="#3d46c2"/>
+        </g>
+        <g id="Grupo_149574" data-name="Grupo 149574" transform="translate(89.622 103.133)">
+          <line id="Línea_576-8" data-name="Línea 576" y2="16.651" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_158597-10" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -115.309)" fill="#3d46c2"/>
+        </g>
+        <text id="Media_aritmética" data-name="Media aritmética" transform="translate(37 9)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Media aritmética</tspan></text>
+        <text id="Mediana" transform="translate(67 75)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Mediana</tspan></text>
+        <text id="Moda" transform="translate(77 138)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Moda</tspan></text>
+      </g>
+      <text id="Percentiles" transform="translate(774.655 1135)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Percentiles</tspan></text>
+      <g id="Grupo_149581" data-name="Grupo 149581" transform="translate(1026 997)">
+        <g id="Grupo_149577" data-name="Grupo 149577" transform="translate(97 40.133)">
+          <line id="Línea_576-9" data-name="Línea 576" y2="16.651" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_158597-11" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -115.309)" fill="#3d46c2"/>
+        </g>
+        <g id="Grupo_149578" data-name="Grupo 149578" transform="translate(97 103.133)">
+          <line id="Línea_576-10" data-name="Línea 576" y2="16.651" transform="translate(4.878)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_158597-12" data-name="Trazado 158597" d="M660.97,131.96h9.756l-4.878,5.809Z" transform="translate(-660.97 -115.309)" fill="#3d46c2"/>
+        </g>
+        <g id="Grupo_149580" data-name="Grupo 149580">
+          <g id="Grupo_149567" data-name="Grupo 149567">
+            <g id="Rectángulo_295771-3" data-name="Rectángulo 295771" fill="#fff" stroke="#75b62f" stroke-width="3">
+              <rect width="189" height="40" rx="20" stroke="none"/>
+              <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+            </g>
+            <g id="Rectángulo_295772-3" data-name="Rectángulo 295772" transform="translate(0 64)" fill="#fff" stroke="#75b62f" stroke-width="3">
+              <rect width="189" height="40" rx="20" stroke="none"/>
+              <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+            </g>
+            <g id="Rectángulo_295773-3" data-name="Rectángulo 295773" transform="translate(0 128)" fill="#fff" stroke="#75b62f" stroke-width="3">
+              <rect width="189" height="40" rx="20" stroke="none"/>
+              <rect x="1.5" y="1.5" width="186" height="37" rx="18.5" fill="none"/>
+            </g>
+          </g>
+          <text id="Rango_o_recorrido" data-name="Rango o recorrido" transform="translate(45 10)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Rango o recorrido</tspan></text>
+          <text id="Desviación_media" data-name="Desviación media" transform="translate(44 76)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Desviación media</tspan></text>
+          <text id="Varianza" transform="translate(74 139)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Varianza</tspan></text>
+        </g>
+      </g>
+      <text id="Posición" transform="translate(778.998 905)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Posición</tspan></text>
+      <text id="Dispersión" transform="translate(1088.752 905)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Dispersión</tspan></text>
+    </g>
+  </g>
+</svg>

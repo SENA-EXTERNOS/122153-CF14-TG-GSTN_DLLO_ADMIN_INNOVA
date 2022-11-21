@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="589" height="113" viewBox="0 0 589 113">
+  <g id="Grupo_150126" data-name="Grupo 150126" transform="translate(6541.5 9986.586)">
+    <g id="Grupo_149985" data-name="Grupo 149985" transform="translate(-7351.5 -12296.095)">
+      <g id="Rectángulo_295752" data-name="Rectángulo 295752" transform="translate(810 2309.509)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="589" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="588" height="112" fill="none"/>
+      </g>
+      <g id="Grupo_149250" data-name="Grupo 149250" transform="translate(739.92 1705.757)">
+        <line id="Línea_1121" data-name="Línea 1121" x2="479.07" transform="translate(155.08 658.752)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="6"/>
+        <path id="Trazado_158597" data-name="Trazado 158597" d="M698.99,412.692V382.78L725.8,397.736Z" transform="translate(-81.716 261.016)" fill="#3d46c2"/>
+      </g>
+      <g id="Grupo_149251" data-name="Grupo 149251" transform="translate(0 32.509)">
+        <text id="Número" transform="translate(818 2295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Número</tspan></text>
+        <text id="Percentil" transform="translate(818 2348)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Percentil</tspan></text>
+      </g>
+      <g id="Grupo_149252" data-name="Grupo 149252" transform="translate(97 32.509)">
+        <text id="_0" data-name="0" transform="translate(810 2294)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">0</tspan></text>
+        <text id="_0-2" data-name="0" transform="translate(810 2350)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">0</tspan></text>
+      </g>
+      <g id="Grupo_149253" data-name="Grupo 149253" transform="translate(161 32.509)">
+        <text id="_63" data-name="63" transform="translate(810 2294)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">63</tspan></text>
+        <text id="_9" data-name="9" transform="translate(810 2351)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">9</tspan></text>
+      </g>
+      <g id="Grupo_149254" data-name="Grupo 149254" transform="translate(315 32.509)">
+        <text id="_350" data-name="350" transform="translate(810 2294)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">350</tspan></text>
+        <text id="_50" data-name="50" transform="translate(810 2352)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">50</tspan></text>
+      </g>
+      <g id="Grupo_149255" data-name="Grupo 149255" transform="translate(476 38.372)">
+        <text id="_700" data-name="700" transform="translate(810 2295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">700</tspan></text>
+        <text id="_100" data-name="100" transform="translate(810 2353)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">100</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
