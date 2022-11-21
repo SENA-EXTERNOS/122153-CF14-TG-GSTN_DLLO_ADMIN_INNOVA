@@ -82,7 +82,7 @@
         i.fas.fa-square
         | 
         h3.text-black Parámetros de posición
-
+    p.mb-3 Consta de dividir los datos en grupos con el mismo número de datos recopilados. Para esto es necesario organizar la información de datos de menor a mayor, y para su interpretación se organiza en criterios conocidos como cuantiles, los cuales son variables de intervalos en los que se dividen los datos.
     p.mb-5 Algunos ejemplos son: 
 
     .row.justify-content-center.mb-5

@@ -11,12 +11,12 @@
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-4
 
-          figure
+          figure.mb-3
             img(src='@/assets/curso/temas/tema1/img-1.svg')
 
       .col-md-6.col-lg-8
 
-        .cajon.color-primario.p-4.mb-5.fnd-3
+        .cajon.color-acento-botones.p-4.mb-5.fnd-2
           p En primer lugar, se aborda el concepto de la estadística, la cual consiste en recoger datos para clasificarlos y presentarlos adecuadamente, para esto se requiere de una organización y análisis de la información, de tal modo que sirvan para la posterior toma de decisiones.
 
         p.mb-5 Es utilizada científicamente pero también de manera rutinaria por las personas, que en muchas ocasiones la emplean desconociendo su interpretación, comúnmente es y ha sido aplicada a lo largo de la historia de la humanidad, en diferentes áreas del conocimiento y en diferentes conductas sociales; dada su naturaleza y su método es una ciencia exacta, porque permite experimentar las probabilidades con argumentos que desarrollan o crean métodos, los cuales permiten evaluar el comportamiento de las tendencias, asumiendo como objetivo el estudio de conjuntos numerosos de personas, animales, objetos de cualquier clase o cualquier tipo de información, entre otras, que puedan ser recopiladas y analizadas para la orientación al planteamiento de necesidades.
@@ -48,7 +48,7 @@
             p En estadística, el término población, se refiere a la integración de datos que requieren ser organizados, analizados e interpretados. Expone Gamboa (2017), que la población no se refiere exclusivamente a seres humanos, sino que también puede corresponder a animales, muestras biológicas, expedientes, hospitales, objetos, familias, organizaciones, etc.; para estos últimos, podría ser más adecuado utilizar un término análogo, como universo de estudio. Entonces, en el objeto de estudio, el análisis de la información conlleva a estudiar datos identificados, estos datos los conocemos como población, un ejemplo de población puede ser la cantidad de personas o la cantidad de cosas, en un lugar específico con el fin de ser analizado.
           .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Muestra")
             p La acción de realizar un muestreo de información, se refiere a la selección de una porción-parte-subconjunto de datos del universo o población que haya sido seleccionada, delimitada y ubicada cronológicamente, la cual es objeto de estudio en la investigación. El muestreo tiene por objetivo estudiar las relaciones existentes entre la distribución de una variable “y” en una población “z” y la distribución de esta variable en la muestra a estudio (Hernández Sampieri, Fernández-Collado, & Baptista-Lucio, 2006), a su vez también exponen que cuando se determina la muestra en una investigación, se toman dos decisiones fundamentales: la manera como van a seleccionarse los casos (participantes, eventos, episodios, organizaciones, productos, etc.) y el número de casos a incluir (tamaño de muestra). Estos dos elementos permiten claramente unificar esfuerzos mediante la centralización de información, logrando con estos tener datos que representen la integralidad de los resultados analizados y que conllevarán a las decisiones.  
-      .col-lg-4
+      .col-lg-4.mt-5
         figure
             img(src='@/assets/curso/temas/tema1/img-2.svg')
 
@@ -57,7 +57,7 @@
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-4
-        figure
+        figure.mb-5
             img(src='@/assets/curso/temas/tema1/img-3.svg')    
       .col-lg-8
         TabsA.color-acento-contenido.grs

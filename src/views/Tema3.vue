@@ -117,87 +117,87 @@
           h5 Tabla 2. 
           span <em>Tabla de frecuencia simple </em>
 
-
-    table.mb-5
-      thead.fnd-3.b-tb
-        tr.text-center
-          th.text-center
-            | Valores de la Frecuencia 
-            br
-            | Xi
-            br
-            | "Registre la cantidad de veces que las personas fueron al centro comercial"
-          th.text-center
-            | Frecuencia Absoluta 
-            br
-            | fi
-            br
-            | "Registre la cantidad de veces se repite el dato"
-          th.text-center
-            | Frecuencia Relativa 
-            br
-            | fr
-            br
-            | "Divida la cantidad total del dato, en la totalidad de los mismos" fr=fi1/n
-          th.text-center
-            | %
-            br
-            | "Resultado de multiplicar la frecuencia relativa por 100"
-            br
-          th.text-center
-            | Frecuencia absoluta
-            br
-            |  acumulada 
-            br
-            | F
-            br
-            | "Sume acumuladamente la frecuencia absoluta de la cantidad de datos obtenidos con el n&uacute;mero anterior"
-      tbody.b-tb
-        tr.text-center
-          td 0
-          td 6
-          td 6/25 = 0,24
-          td 24
-          td 6
-        tr.text-center
-          td 1
-          td 7
-          td 7/25 = 0,28 
-          td 28
-          td   6 + 7 = 13
-        tr.text-center
-          td 2
-          td 2
-          td 2/25 = 0,08
-          td 8
-          td 13 + 2 = 15
-        tr.text-center
-          td 3
-          td 4
-          td 4/25 = 0,16
-          td 16
-          td 15 + 4 = 19
-        tr.text-center
-          td 4
-          td 1
-          td 1/25 = 0,04
-          td 4
-          td 19 + 1 = 20
-        tr.text-center
-          td 5
-          td 5
-          td 5/25 = 0,20
-          td 20
-          td 20 + 5 = 25
-        tr.text-center
-          td
-          td 
-            b 25 = n
-          td 
-            b 1,00
-          td 
-            b 100
-          td
+    .tabla-a.mb-5 
+      table.mb-5
+        thead.fnd-3.b-tb
+          tr.text-center
+            th.text-center
+              | Valores de la Frecuencia 
+              br
+              | Xi
+              br
+              | "Registre la cantidad de veces que las personas fueron al centro comercial"
+            th.text-center
+              | Frecuencia Absoluta 
+              br
+              | fi
+              br
+              | "Registre la cantidad de veces se repite el dato"
+            th.text-center
+              | Frecuencia Relativa 
+              br
+              | fr
+              br
+              | "Divida la cantidad total del dato, en la totalidad de los mismos" fr=fi1/n
+            th.text-center
+              | %
+              br
+              | "Resultado de multiplicar la frecuencia relativa por 100"
+              br
+            th.text-center
+              | Frecuencia absoluta
+              br
+              |  acumulada 
+              br
+              | F
+              br
+              | "Sume acumuladamente la frecuencia absoluta de la cantidad de datos obtenidos con el n&uacute;mero anterior"
+        tbody.b-tb
+          tr.text-center
+            td 0
+            td 6
+            td 6/25 = 0,24
+            td 24
+            td 6
+          tr.text-center
+            td 1
+            td 7
+            td 7/25 = 0,28 
+            td 28
+            td   6 + 7 = 13
+          tr.text-center
+            td 2
+            td 2
+            td 2/25 = 0,08
+            td 8
+            td 13 + 2 = 15
+          tr.text-center
+            td 3
+            td 4
+            td 4/25 = 0,16
+            td 16
+            td 15 + 4 = 19
+          tr.text-center
+            td 4
+            td 1
+            td 1/25 = 0,04
+            td 4
+            td 19 + 1 = 20
+          tr.text-center
+            td 5
+            td 5
+            td 5/25 = 0,20
+            td 20
+            td 20 + 5 = 25
+          tr.text-center
+            td
+            td 
+              b 25 = n
+            td 
+              b 1,00
+            td 
+              b 100
+            td
 
     .row.justify-content-center.mb-5
       .col-md-8.col-lg-10
@@ -211,16 +211,20 @@
                 ul.lista-ul--color.nar
                   li 
                     i.fas.fa-check
-                    | En la columna de frecuencia absoluta<em> Fi</em>, debe obtener la cantidad total de los encuestados.
+                    | 
+                    p En la columna de frecuencia absoluta <em> Fi</em>, debe obtener la cantidad total de los encuestados.
                   li 
                     i.fas.fa-check
-                    | En la columna de frecuencia relativa <em>fr</em>, la suma al final debe estar al 0,99 o al número 1 cerrado, este resultado, le da el parámetro que están bien registrados los datos.
+                    | 
+                    p En la columna de frecuencia relativa <em>fr</em>, la suma al final debe estar al 0,99 o al número 1 cerrado, este resultado, le da el parámetro que están bien registrados los datos.
                   li 
                     i.fas.fa-check
-                    | El resultado de la columna de porcentaje, al final de la sumatoria, ponderará un total de 100.
+                    | 
+                    p El resultado de la columna de porcentaje, al final de la sumatoria, ponderará un total de 100.
                   li 
                     i.fas.fa-check
-                    | Al final de la frecuencia acumulada, se debe obtener el mismo resultado de la sumatoria de la frecuencia absoluta, la cual para este ejercicio, es la cantidad de encuestados.
+                    | 
+                    p Al final de la frecuencia acumulada, se debe obtener el mismo resultado de la sumatoria de la frecuencia absoluta, la cual para este ejercicio, es la cantidad de encuestados.
  
     Separador   
 

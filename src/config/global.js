@@ -161,16 +161,11 @@ export default {
     {
       tema: 'Parámetros estadísticos',
       referencia:
-        'Bioestadistica Odontología UV. (2014).  ¿Qué son los Cuantiles? (video). YouTube. ',
+        'Bioestadistica Odontología UV. (2014).  ¿Qué son los Cuantiles? (video). YouTube. https://youtu.be/x9fznavEozk ',
       tipo: 'Video ',
-      link: 'https://youtu.be/x9fznavEozk ',
+      link: 'https://youtu.be/x9fznavEozk',
     },
-    {
-      tema: '',
-      referencia: 'https://youtu.be/x9fznavEozk',
-      tipo: '',
-      link: '',
-    },
+
     {
       tema: 'Mejora continua, evaluación e informes',
       referencia:

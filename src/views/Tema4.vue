@@ -36,7 +36,7 @@
             img(src='@/assets/curso/temas/tema4/img-3.svg')
 
       .col-md-6.col-lg-8
-        p.mb-5 Es necesario apoyarnos en el numeral 10.2 de la norma ISO 9001 versión 2015, donde se orienta en el manejo de las no conformidades, esto traduzcase a la falla o error en algunos de las actividades que se gestionan, y el tratamiento de mejora continua va orientado a la implementación de acciones correctivas, partiendo que cuando se presenta una no conformidad en la empresa, se debe tomar la acción necesaria e inmediata para investigar qué ha ocurrido y corregirlo, con el objetivo de evitar que casos similares se presenten a futuro, buscando mitigar el impacto de lo ocurrido.
+        p.mb-5 Es necesario apoyarnos en el numeral 10.2 de la norma ISO 9001 versión 2015, donde se orienta en el manejo de las no conformidades, esto tradúzcase a la falla o error en algunos de las actividades que se gestionan, y el tratamiento de mejora continua va orientado a la implementación de acciones correctivas, partiendo que cuando se presenta una no conformidad en la empresa, se debe tomar la acción necesaria e inmediata para investigar qué ha ocurrido y corregirlo, con el objetivo de evitar que casos similares se presenten a futuro, buscando mitigar el impacto de lo ocurrido.
         .cajon.color-primario.p-4.mb-5.fnd-3
           p ¿Qué hacer ante las no conformidades? Toda empresa, a través de los responsables del proceso y del control de este, debe tomar medidas inmediatas para intervenir o corregir sus no conformidades, esto buscando contener el impacto de las falencias, mientras se investiga más sobre su origen, informando de la no conformidad presentada, a niveles de control necesarios, vislumbrando la información sobre los efectos potenciales o reales en el producto o servicio esté afectando. 
 
@@ -62,7 +62,7 @@
         .cajon.color-acento-botones.p-4.mb-5.fnd-2
             p Es importante aclarar que cualquiera de las técnicas que se utilicen son favorables para la identificación de causas, pero que las mismas requieren que las personas que las desarrollen las apliquen con transparencia y objetividad.
 
-    p.mb-5 Pero el trabajo no termina ahí, posterior a identificar las causas, es necesario determinar qué acciones concretas se van a desarrollar, un ejemplo es el método diseñado por Edward Deming, conocido como el ciclo PHVA, el cual estudiaremos a continuación, enfocado en la temática que estamos abordando.
+    p.mb-5 Pero el trabajo no termina ahí, posterior a identificar las causas, es necesario determinar qué acciones concretas se van a desarrollar, un ejemplo es el método diseñado por <em>Edward Deming,</em> conocido como el ciclo PHVA, el cual estudiaremos a continuación, enfocado en la temática que estamos abordando.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         ImagenInfografica.color-acento-botones
@@ -94,25 +94,25 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row
-          .col-lg-3
+          .col-lg-3.mb-4
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema4/img-6.svg' alt='AvatarTop')
-              .tarjeta.color-secundario.w-100.fnd-1
+              .tarjeta.color-secundario.w-100.fnd-6
                 .text-center.p-4
                   p Tomar decisiones en todos los niveles.
-          .col-lg-3
+          .col-lg-3.mb-4
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema4/img-7.svg' alt='AvatarTop')
               .tarjeta.color-secundario.w-100.fnd-5
                 .text-center.p-4
                   p Medir el desempeño de procesos y de personas.
-          .col-lg-3              
+          .col-lg-3.mb-4       
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema4/img-8.svg' alt='AvatarTop')
-              .tarjeta.color-secundario.w-100.fnd-1
+              .tarjeta.color-secundario.w-100.fnd-6
                 .text-center.p-4
                   p Comparar y hacer seguimiento de la gestión.         
-          .col-lg-3              
+          .col-lg-3         
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema4/img-9.svg' alt='AvatarTop')
               .tarjeta.color-secundario.w-100.fnd-5
@@ -170,12 +170,12 @@
                 i.fas.fa-check
                 p.mb-0
                   b Eficiencia: 
-                  | Eficiencia: mide los recursos utilizados frente a resultados obtenidos, o también mide la relación entre los resultados alcanzados frente a los recursos disponibles. 
+                  | mide los recursos utilizados frente a resultados obtenidos, o también mide la relación entre los resultados alcanzados frente a los recursos disponibles. 
               li 
                 i.fas.fa-check
                 p.mb-0
                   b Efectividad:
-                  | mide el impacto del indicador frente al cumplimiento del objetivo o también se puede ver como la combinación entre la eficiencia y la eficacia.
+                  |  mide el impacto del indicador frente al cumplimiento del objetivo o también se puede ver como la combinación entre la eficiencia y la eficacia.
 
         .row.justify-content-center.align-items-center
           .col-md-4.mb-4.mb-md-0.p-y-5
