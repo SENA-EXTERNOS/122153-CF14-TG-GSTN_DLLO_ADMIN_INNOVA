@@ -22,24 +22,10 @@
         p.mb-5 Es utilizada científicamente pero también de manera rutinaria por las personas, que en muchas ocasiones la emplean desconociendo su interpretación, comúnmente es y ha sido aplicada a lo largo de la historia de la humanidad, en diferentes áreas del conocimiento y en diferentes conductas sociales; dada su naturaleza y su método es una ciencia exacta, porque permite experimentar las probabilidades con argumentos que desarrollan o crean métodos, los cuales permiten evaluar el comportamiento de las tendencias, asumiendo como objetivo el estudio de conjuntos numerosos de personas, animales, objetos de cualquier clase o cualquier tipo de información, entre otras, que puedan ser recopiladas y analizadas para la orientación al planteamiento de necesidades.
 
 
-    .row.justify-content-center.mb-5
-      .col-md-8.col-lg-10
-        .tarjeta.p-3.fnd-1
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema2/img-13.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Antecedentes de la Estadística
-                  p.text-small Para ampliar la información sobre la estadística, lo invitamos a ver el Video Introductorio: Antecedentes de la Estadística, el cual se encuentra en el material complementario.
+    .row.mt-5
+      p Amplíe sus conocimientos sobre estadística, visualizando el vídeo “<b>Antecedentes de la estadística</b>”, el cual encuentra en el material complementario.
 
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=-NutZ7n-Exg')" target="_blank")
-                    span Ver video
-                    i.fas.fa-video
-
-    p.mb-3 Cuando hablamos de estadística, existen dos términos que se deben comprender muy bien:
+      p.mb-3 Cuando hablamos de estadística, existen dos términos que se deben comprender muy bien:
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8
@@ -62,32 +48,26 @@
       .col-lg-8
         TabsA.color-acento-contenido.grs
           .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Definición de<br> la población")
-            p Para definir una población, se deben tener en cuenta características que terminan siendo determinantes para el desarrollo de la investigación. El primer criterio a tener en cuenta es la selección correcta de la población a estudiar, porque de acuerdo con la selección clara de su población, podrá dar una delimitación objetiva, permitiendo la organización de los datos requeridos para el estudio; es importante tener en cuenta que hay poblaciones con datos infinitos, pero también estas poblaciones se pueden delimitar con el objetivo que sus datos sean finitos; otra característica determinante que le permitirá ubicar de manera correcta los datos a ser estudiados, es la ubicación cronológica, no es lo mismo estudiar una población determinada en diferentes momentos, porque entran a ponderar variables externas que influyen en los análisis estadísticos se deseen adelantar.
+            p Para definir una población, se deben tener en cuenta características que terminan siendo determinantes para el desarrollo de la investigación. El primer criterio a tener en cuenta, se refiere a la selección correcta de la población a estudiar, porque, de acuerdo con la selección clara de su población, podrá dar una delimitación objetiva, permitiendo la organización de los datos requeridos para el estudio; es importante, recordar que hay poblaciones con datos infinitos, pero también estas poblaciones se pueden delimitar, con el objetivo que sus datos sean finitos; otra característica determinante que le permitirá ubicar, de manera correcta, los datos a ser estudiados, es la ubicación cronológica; no es lo mismo estudiar una población determinada en diferentes momentos, porque entran a ponderar variables externas que influyen en los análisis estadísticos se deseen adelantar. 
+
           .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Tamaño correcto <br>de la muestra")
             p Buscando cómo llegar de manera correcta al tamaño de muestra, la cual busca encontrar esa porción-parte-subconjunto de datos del universo o población que haya sido seleccionada, se deben buscar mecanismos para la reducción de costos en diferentes recursos, como los son económicos, mano de obra y materiales, entre otros, siendo el muestreo un mecanismo que selecciona y delimita la recolección de los datos, porque se puede realizar en menor tiempo y también permite el estudio poblaciones muy grandes.
             p Para hallar el tamaño de muestra estadísticamente, se desarrollan métodos, por lo cual es importante identificar el nivel de confianza, siendo este un grado de certeza o probabilidad expresado en porcentajes con el que se pretende realizar la estimación de un parámetro a través de un estadístico muestral “fórmula”.  
 
-    p.mb-5 Para ampliar la información sobre el tema, lo invitamos a ver los siguientes videos, los cuales se encuentran en el material complementario:
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        .row.justify-content-center
-              .col-md-6.col-lg-6
-                a.anexo.mb-4.mb-lg-0.fnd-12(href="https://youtu.be/Q4RZqKLZ8zU" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto.fnd-12
-                    p.mb-0.azz 
-                      b.azz Enlace video.
-                      | ¿Qué son la población y la muestra? (Con ejemplos)
+    .row.mt-5.justify-content-center  
+      .col-lg-9
+        .cajon.color-acento-botones.p-4.mb-5.fnd-2
+          p Para ampliar la información sobre el tema, lo invitamos a ver los siguientes videos, los cuales se encuentran en el material complementario:
 
-              .col-md-6.col-lg-6
-                a.anexo.mb-4.mb-lg-0.fnd-12(href="https://youtu.be/oc8i9g144Y0" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto.fnd-12
-                    p.mb-0.azz 
-                      b.azz Enlace video.
-                      | Tamaño de muestra paso a paso
+          ul.lista-ul--color
+            li 
+              i.fas.fa-check
+              p.mb-0 ¿Qué son la población y la muestra? (Con ejemplos).
+
+            li 
+              i.fas.fa-check
+              p.mb-0 Tamaño de muestra paso a paso.
+                
 
 
 

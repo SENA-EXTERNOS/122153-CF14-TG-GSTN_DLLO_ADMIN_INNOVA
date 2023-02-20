@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Etapas del procesamiento de datos y métodos estadísticos',
     descripcionCurso:
-      'La comprensión de las estadísticas y las herramientas para la interpretación como la muestra, población, la tabulación y representación de los datos, el diligenciamiento de informes, la creación y el análisis correcto de los indicadores, coadyuvará a la mejora continua del proceso, permitiendo identificar de forma prospectiva el cumplimiento y la propuesta de objetivos organizacionales.',
+      'La comprensión de las estadísticas y las herramientas para la tabulación, la interpretación y la representación de los datos, el diligenciamiento de informes, la creación y el análisis correcto de los indicadores, contribuyen con la mejora continua del proceso, permitiendo identificar, de forma prospectiva, el cumplimiento y la propuesta de objetivos organizacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [

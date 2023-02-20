@@ -36,22 +36,15 @@
             img(src='@/assets/curso/temas/tema4/img-3.svg')
 
       .col-md-6.col-lg-8
-        p.mb-5 Es necesario apoyarnos en el numeral 10.2 de la norma ISO 9001 versión 2015, donde se orienta en el manejo de las no conformidades, esto tradúzcase a la falla o error en algunos de las actividades que se gestionan, y el tratamiento de mejora continua va orientado a la implementación de acciones correctivas, partiendo que cuando se presenta una no conformidad en la empresa, se debe tomar la acción necesaria e inmediata para investigar qué ha ocurrido y corregirlo, con el objetivo de evitar que casos similares se presenten a futuro, buscando mitigar el impacto de lo ocurrido.
+        p.mb-5 Es necesario apoyarnos en el numeral 10.2 de la norma ISO 9001 versión 2015, donde se orienta en el manejo de las no conformidades; esto se traduce como la falla o error en algunas de las actividades que se gestionan, y el tratamiento de mejora continua va orientado a la implementación de acciones correctivas, partiendo de cuando se presenta una no conformidad en la empresa, se debe tomar la acción necesaria e inmediata, para investigar qué ha ocurrido y corregirlo, con el objetivo de evitar que casos similares se presenten a futuro y buscando mitigar el impacto de lo ocurrido.
+
         .cajon.color-primario.p-4.mb-5.fnd-3
           p ¿Qué hacer ante las no conformidades? Toda empresa, a través de los responsables del proceso y del control de este, debe tomar medidas inmediatas para intervenir o corregir sus no conformidades, esto buscando contener el impacto de las falencias, mientras se investiga más sobre su origen, informando de la no conformidad presentada, a niveles de control necesarios, vislumbrando la información sobre los efectos potenciales o reales en el producto o servicio esté afectando. 
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-8
         p.mb-5 Ahora bien, para el tratamiento, se debe determinar su causa, porque si no conocemos el origen del problema, no podremos erradicar las causas de las no conformidades. Pueden utilizarse varios métodos para identificación de las causas raíz, los cuales encontrará en el documento<b> 10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos,</b> el cual se encuentra en el material complementario. 
-        .row.justify-content-center
-          .col-md-6.col-lg-6
-            a.anexo.mb-4.mb-lg-0.fnd-12(href="https://www.nueva-iso-9001-2015.com/2020/05/10-tecnicas-de-analisis-de-causa-raiz-de-los-desperdicios-de-la-calidad-para-eliminarlos/" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto.fnd-12
-                p.mb-0.azz 
-                  b.azz Enlace web.
-                  | “10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos”
+        p Remítase el material complementario y explore el artículo <b>“10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos”</b> a través del enlace que allí se deja.
 
       .col-md-6.col-lg-4
           figure
@@ -60,8 +53,10 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-5.fnd-2
-            p Es importante aclarar que cualquiera de las técnicas que se utilicen son favorables para la identificación de causas, pero que las mismas requieren que las personas que las desarrollen las apliquen con transparencia y objetividad.
+            p <b>Nota importante!</b>
 
+            p  Cualquiera de las técnicas que se utilicen, son favorables para la identificación de causas, pero las mismas requieren que las personas que las desarrollen, las apliquen con transparencia y objetividad.
+   
     p.mb-5 Pero el trabajo no termina ahí, posterior a identificar las causas, es necesario determinar qué acciones concretas se van a desarrollar, un ejemplo es el método diseñado por <em>Edward Deming,</em> conocido como el ciclo PHVA, el cual estudiaremos a continuación, enfocado en la temática que estamos abordando.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8

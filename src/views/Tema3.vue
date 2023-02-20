@@ -33,7 +33,7 @@
         i.fas.fa-check
         p.mb-0
           b Variables cualitativas:
-          | integran características o cualidades y se subdividen en nominales u ordinales.
+          | integran características o cualidades, y se subdividen en nominales y ordinales.
 
     p.mb-5 Conozcamos más sobre cada una de ellas:
     .row.justify-content-center.align-items-center.mb-5
@@ -106,16 +106,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 1. 
-          span <em> Cantidad de veces que cada persona fue al centro comercial </em>
+          h5 Tabla 1
+          p <em> Cantidad de veces que cada persona fue al centro comercial </em>
 
 
         figure
             img(src='@/assets/curso/temas/tema3/img-4.svg')
 
     .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
-          h5 Tabla 2. 
-          span <em>Tabla de frecuencia simple </em>
+          h5 Tabla 2
+          p <em>Tabla de frecuencia simple </em>
 
     .tabla-a.mb-5 
       table.mb-5

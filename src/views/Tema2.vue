@@ -15,14 +15,13 @@
             img(src='@/assets/curso/temas/tema2/img-1.svg')
 
       .col-md-6.col-lg-8
-        p.mb-5 Para la definición de este concepto, es vital comprender, que mediante este mecanismo podremos dar lectura, interpretación y síntesis a los datos que sean objeto de estudio, por lo cual distribuiremos los parámetros en tres grandes componentes, que de acuerdo con las denominaciones estadísticas, se subdividen bajo los conceptos abordados en la figura 1.
-      
+        p.mb-5 Un parámetro estadístico, permite la lectura, la interpretación y la síntesis de los datos objeto de estudio, por lo cual distribuiremos los parámetros en tres grandes componentes que, de acuerdo con las denominaciones estadísticas, se subdividen bajo los conceptos abordados en la siguiente figura:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 1.
-          span <em>Tipos de parámetros estadísticos </em>
+          h5 Figura 1
+          p <em>Tipos de parámetros estadísticos </em>
         figure
           img(src='@/assets/curso/temas/tema2/img-2.svg')          
 
@@ -59,7 +58,7 @@
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
-                img(src='@/assets/curso/temas/tema2/img-4.svg')                     
+                img(src='@/assets/curso/temas/tema2/img4.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 Representa el valor de la variable de la posición central en un conjunto de datos ordenados. 
             p.mb-0 Ejemplo: 
@@ -126,7 +125,7 @@
         | 
         h3.text-black Parámetros de dispersión 
 
-    p.mb-5 Son establecidos para interpretar cuando se alejan de la parte central, los valores de distribución datos.
+    p.mb-5 Son establecidos para interpretar cuando se alejan de la parte central, los valores de distribución de datos.
 
     p.mb-5 En estos parámetros son importantes los siguientes términos:
 
@@ -142,7 +141,7 @@
                     .tarjeta-flip__contenido.p-4.p-xl-5.fnd-5
                       h3.text-center Rango o recorrido
                       p.text-center Es la diferencia entre el dato mayor y el dato menor de los datos de una distribución numérica.
-
+                      
               .col-sm-6.col-xl-4.mb-4.mb-xl-0.hh1
                 .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
                   .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -161,23 +160,9 @@
                       h3.text-center Varianza
                       p.text-center Es una medida que representa la variabilidad de una serie de datos respecto a su media.                    
 
-    .row.justify-content-center.mb-5
-      .col-md-8.col-lg-10
-        .tarjeta.p-3.fnd-1
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema2/img-13.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Medidas de dispersión – datos no agrupados
-                  p.text-small Para ampliar la información, lo invitamos a ver el video Medidas de dispersión – datos no agrupados, el cual se encuentra en el material complementario.
-
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/pLPKjLfjRYE')" target="_blank")
-                    span Ver video
-                    i.fas.fa-video
-
+    
+    .row.mt-5
+      p Para ampliar la información, lo invitamos a ver el video <b>Medidas de dispersión – datos no agrupados</b>, el cual se encuentra en el material complementario.
 
 
 
