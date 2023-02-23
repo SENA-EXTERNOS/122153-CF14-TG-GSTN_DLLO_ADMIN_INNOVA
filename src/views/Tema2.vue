@@ -42,7 +42,7 @@
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
-                img(src='@/assets/curso/temas/tema2/img-3.svg')                     
+                img(src='@/assets/curso/temas/tema2/img3.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 La media es la suma de todos los datos divididos por el número de datos.
               br
