@@ -43,7 +43,8 @@
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-8
-        p.mb-5 Ahora bien, para el tratamiento, se debe determinar su causa, porque si no conocemos el origen del problema, no podremos erradicar las causas de las no conformidades. Pueden utilizarse varios métodos para identificación de las causas raíz, los cuales encontrará en el documento<b> 10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos,</b> el cual se encuentra en el material complementario. 
+        p.mb-5 Ahora bien, para el tratamiento, se debe determinar su causa, porque si no se conoce el origen del problema, no se podrán erradicar las causas de las no conformidades. Pueden utilizarse varios métodos para identificación de las causas raíz.
+
         p Remítase el material complementario y explore el artículo <b>“10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos”</b> a través del enlace que allí se deja.
 
       .col-md-6.col-lg-4
