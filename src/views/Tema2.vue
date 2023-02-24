@@ -58,7 +58,7 @@
         .row    
           .col-md-6.mb-4.mb-md-0
               figure.px-3
-                img(src='@/assets/curso/temas/tema2/img4a.svg')                     
+                img(src='@/assets/curso/temas/tema2/img4.svg')                     
           .col-md-6.mb-4.mb-md-0
             p.mb-3 Representa el valor de la variable de la posición central en un conjunto de datos ordenados. 
             p.mb-0 Ejemplo: 
