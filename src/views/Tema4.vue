@@ -120,7 +120,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Fj3zHwTwVsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      
 
     p.mb-5 Ahora bien, comprendiendo la temática relacionada con los indicadores, surge la necesidad de percibir cómo se puede crear este tipo de herramientas de medición, con el objetivo de ayudar a la medición en su entidad o empresa.
     p.mb-5 Ahora vemos las siguientes recomendaciones para la creación de indicadores: 
