@@ -119,7 +119,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Fj3zHwTwVsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eN4UvzBrZ34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 
     p.mb-5 Ahora bien, comprendiendo la temática relacionada con los indicadores, surge la necesidad de percibir cómo se puede crear este tipo de herramientas de medición, con el objetivo de ayudar a la medición en su entidad o empresa.
