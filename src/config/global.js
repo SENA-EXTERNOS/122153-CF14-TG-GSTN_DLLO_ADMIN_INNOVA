@@ -246,8 +246,6 @@ export default {
     {
       referencia:
         'Hernández, R., Fernández, C., & Baptista, P. (2014). <em>Metodología de la investigación.</em> McGraw Hill.',
-      link:
-        'https://www.uca.ac.cr/wp-content/uploads/2017/10/Investigacion.pdf',
     },
   ],
   creditos: {
