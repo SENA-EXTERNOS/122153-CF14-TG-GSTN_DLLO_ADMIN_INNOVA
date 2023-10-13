@@ -126,43 +126,43 @@ export default {
     {
       tema: 'Estadística',
       referencia:
-        'Sede Manizales UNAL. (2017).  Video Introductorio: <em>Antecedentes de la Estadística</em> (video). YouTube.',
-      tipo: 'Video ',
+        'Sede Manizales UNAL. (2017). <em>Video Introductorio: Antecedentes de la Estadística</em> (video). YouTube.',
+      tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-NutZ7n-Exg',
     },
     {
       tema: 'Estadística',
       referencia:
-        'Lifeder Educación. (2020). <em>¿Qué son la población y la muestra?</em> (Con ejemplos) (video). YouTube.',
-      tipo: 'Video ',
-      link: 'https://youtu.be/Q4RZqKLZ8zU  ',
+        'Lifeder Educación. (2020). <em>Población y muestra: explicación fácil con ejemplos</em> (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/Q4RZqKLZ8zU',
     },
     {
-      tema: 'Estadística ',
+      tema: 'Estadística',
       referencia:
         'fbombab. (2018). <em>Tamaño de muestra paso a paso</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/oc8i9g144Y0',
     },
     {
-      tema: 'Parámetros estadísticos ',
+      tema: 'Parámetros estadísticos',
       referencia:
-        'Math2me Kids. (2021). <em>Medidas de dispersión – datos no agrupados</em> (video). YouTube.',
+        'Math2me Kids. (2021).<em>Medidas de dispersión - datos no agrupados</em> (video). YouTube.',
       tipo: 'Video',
-      link: 'https://youtu.be/pLPKjLfjRYE ',
+      link: 'https://youtu.be/pLPKjLfjRYE',
     },
     {
       tema: 'Parámetros estadísticos',
       referencia:
         'Carreón, D. (2017). <em>Media, moda y mediana Super fácil - Medidas de tendencia central</em>. (video). YouTube.',
-      tipo: 'Video ',
+      tipo: 'Video',
       link: 'https://youtu.be/0DA7Wtz1ddg',
     },
     {
       tema: 'Parámetros estadísticos',
       referencia:
-        'Bioestadistica Odontología UV. (2014). <em> ¿Qué son los Cuantiles?</em> (video). YouTube.',
-      tipo: 'Video ',
+        'Bioestadistica Odontología UV. (2014). <em> ¿Qué son los Cuantiles?</em> (video). YouTube.',
+      tipo: 'Video',
       link: 'https://youtu.be/x9fznavEozk',
     },
 
@@ -172,7 +172,7 @@ export default {
         'Nueva ISO 9001:2015. (2020). <em>10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos</em>.',
       tipo: 'Artículo',
       link:
-        'https://www.nueva-iso-9001-2015.com/2020/05/10-tecnicas-de-analisis-de-causa-raiz-de-los-desperdicios-de-la-calidad-para-eliminarlos/ ',
+        'https://www.nueva-iso-9001-2015.com/2020/05/10-tecnicas-de-analisis-de-causa-raiz-de-los-desperdicios-de-la-calidad-para-eliminarlos/',
     },
   ],
   glosario: [
@@ -184,7 +184,7 @@ export default {
     {
       termino: 'CAC',
       significado:
-        'calidad de la información, Aplicación de Técnicas y Comunicación correcta de resultados.',
+        ' Calidad de la información, Aplicación de Técnicas y Comunicación correcta de resultados.',
     },
     {
       termino: 'Ciclo PHVA',
@@ -239,7 +239,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Gamboa, M. E. (2017). <em>Estadística aplicada a la investigación educativa. Dilemas Contemporáneos: Educación, Política y Valores, </em>(2).',
+        'Gamboa, M. E. (2017). <em>Estadística aplicada a la investigación educativa.</em> Dilemas Contemporáneos: Educación, Política y Valores, (2). ',
       link:
         'https://dilemascontemporaneoseducacionpoliticayvalores.com/index.php/dilemas/article/view/427/443',
     },

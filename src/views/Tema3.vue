@@ -26,14 +26,10 @@
     ul.lista-ul--color.nar
       li 
         i.fas.fa-check
-        p.mb-0
-          b Variables cuantitativas:
-          |  son las que integran argumentos numéricos, pueden ser discretas o continuas.
+        p.mb-0 #[b Variables cuantitativas:] son las que integran argumentos numéricos, pueden ser discretas o continuas.
       li 
         i.fas.fa-check
-        p.mb-0
-          b Variables cualitativas:
-          | integran características o cualidades, y se subdividen en nominales y ordinales.
+        p.mb-0 #[b Variables cualitativas:] integran características o cualidades, y se subdividen en nominales y ordinales.
 
     p.mb-5 Conozcamos más sobre cada una de ellas:
     .row.justify-content-center.align-items-center.mb-5
@@ -46,13 +42,13 @@
           .tarjeta.color-secundario.fnd-4-.p-3(x="5.4%" y="48.2%" numero="+")
             p.px-4 Se pueden expresar mediante un número y, además, se pueden realizar operaciones con ellas, como sumar o restar.
           .tarjeta.color-secundario.fnd-4-.p-3(x="32.2%" y="70.4%" numero="+")
-            p.px-4 Es la que toma un número finito de valores, o sea, los valores que puede tomar esta variable se pueden contar. Por ejemplo, tenemos la edad, si le preguntamos a alguien, cuál es su edad, me va a decir 15, 16, 25, se puede contar el número de respuestas diferentes. 
+            p.px-4 Es la que toma un número finito de valores, es decir, los valores que puede tomar esta variable se pueden contar. Por ejemplo, tenemos la edad. Si le preguntamos a alguien cuál es su edad, nos responderá con un número como 15, 16, 25, y así sucesivamente; podemos contar el número de respuestas diferentes.
           .tarjeta.color-secundario.fnd-4-.p-3(x="32.2%" y="95.6%" numero="+")
-            p.px-4 Es la que toma un número infinito de valores o posibles respuestas, o sea, hay muchos valores diferentes que puede tomar esta variable. Por ejemplo, el peso de un balón, no siempre ese peso va a ser igual, Hay muchas cantidades de respuestas dependiendo de la exactitud.
+            p.px-4 Es la que toma un número infinito de valores o posibles respuestas, es decir, hay muchos valores diferentes que puede tomar esta variable. Por ejemplo, el peso de un balón no siempre será igual, ya que puede variar en una amplia gama de valores, dependiendo de la exactitud de la medición.
           .tarjeta.color-secundario.fnd-4-.p-3(x="94.6%" y="48.2%" numero="+")
             p.px-4 Se refieren a características o cualidades que no pueden ser medidas con números. Cuando se realice una estadística, y las respuestas no sean con números, esas variables van a ser cualitativas.
           .tarjeta.color-secundario.fnd-4-.p-3(x="67.6%" y="70.4%" numero="+")
-            p.px-4 No admiten un orden. Hay cualidades que no necesariamente se pueden ordenar, por ejemplo, el color preferido, alguien puede responder, azul, rojo, verde y no se pueden o no admiten un orden, no podemos decir que un color va primero que otro.
+            p.px-4 No admiten un orden. Hay cualidades que no necesariamente se pueden ordenar. Por ejemplo, el color preferido: alguien puede responder azul, rojo, verde, y no se pueden o no admiten un orden específico. No podemos decir que un color va primero que otro.
           .tarjeta.color-secundario.fnd-4-.p-3(x="67.6%" y="95.6%" numero="+")
             p.px-4 Son las que sí se pueden ordenar. Por ejemplo, las notas de un examen (excelente, sobresaliente, deficiente), se pueden ordenar de las mejores a las peores, o de las más altas a las más bajas.
 
@@ -117,9 +113,9 @@
           h5 Tabla 2
           p <em>Tabla de frecuencia simple </em>
 
-    .tabla-a.mb-5 
+    .tabla-a.color-secundario.mb-5 
       table.mb-5
-        thead.fnd-3.b-tb
+        thead.fnd-3.b-tb(style="border-color: transparent")
           tr.text-center
             th.text-center
               | Valores de la Frecuencia 
@@ -132,7 +128,7 @@
               br
               | fi
               br
-              | "Registre la cantidad de veces se repite el dato"
+              | "Registre la cantidad de veces que se repite el dato"
             th.text-center
               | Frecuencia Relativa 
               br
@@ -212,11 +208,11 @@
                   li 
                     i.fas.fa-check
                     | 
-                    p En la columna de frecuencia absoluta <em> Fi</em>, debe obtener la cantidad total de los encuestados.
+                    p En la columna de frecuencia absoluta <em>fi</em>, debe obtener la cantidad total de los encuestados.
                   li 
                     i.fas.fa-check
                     | 
-                    p En la columna de frecuencia relativa <em>fr</em>, la suma al final debe estar al 0,99 o al número 1 cerrado, este resultado, le da el parámetro que están bien registrados los datos.
+                    p En la columna de frecuencia relativa <em>fr</em>, la suma al final debe estar al 0,99 o al número 1 cerrado. Este resultado indica que los datos están registrados correctamente.
                   li 
                     i.fas.fa-check
                     | 
@@ -230,7 +226,7 @@
 
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Gráficos estadísticos y análisis de datos
-    p.mb-5 Llegamos así a la representación gráfica de la información, la cual juega un papel trascendental en el análisis e interpretación de los datos, por ende, la representación de los datos mediante imágenes coadyuva al lector para la compresión de los resultados.
+    p.mb-5 Llegamos así a la representación gráfica de la información, la cual juega un papel trascendental en el análisis e interpretación de los datos. Por ende, la representación de los datos mediante imágenes coadyuva al lector para la compresión de los resultados.
     p.mb-5 En ese orden de ideas, se presentan varios tipos de gráficas de acuerdo con su uso:
 
     .row.justify-content-center.mb-5
@@ -245,7 +241,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.p-y-5
             h3 Polígono de frecuencias
-            p Es un gráfico que se crea a partir de un histograma de frecuencia. Estos histogramas emplean columnas verticales para reflejar frecuencias, el polígono de frecuencias es realizado uniendo los puntos de mayor altura de estas columnas.
+            p Es un gráfico que se crea a partir de un histograma de frecuencia. Estos histogramas emplean columnas verticales para reflejar frecuencias; el polígono de frecuencias es realizado uniendo los puntos de mayor altura de estas columnas.
           .col-md-6
             figure
               img.img-303(src='@/assets/curso/temas/tema3/img-6.svg')

@@ -25,7 +25,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img-2.svg')          
 
-    p.mb-5 Ampliemos la información sobre cada uno de ellos.
+    p.mb-5 Ampliemos la información sobre cada uno de ellos:
 
 
     ul.lista-ul--color.mor
@@ -43,15 +43,17 @@
           .col-md-6.mb-4.mb-md-0
               figure.px-3
                 img(src='@/assets/curso/temas/tema2/img3.svg')                     
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6
             p.mb-3 La media es la suma de todos los datos divididos por el número de datos.
               br
               | Ejemplo: 
-            figure
-              img.img-66(src='@/assets/curso/temas/tema2/img-a.svg')   
-            p.mb-0 Tres es la cantidad de datos.
-            figure.img-75
-              img.img-75(src='@/assets/curso/temas/tema2/img-b.svg')  
+            .row.mb-4
+              .col-auto
+                img(src='@/assets/curso/temas/tema2/img-a.svg')   
+            p Tres es la cantidad de datos.
+            .row.mb-4
+              .col-auto
+                img(src='@/assets/curso/temas/tema2/img-b.svg')  
             p.mb-0 Entonces, la media es 2.
 
       .py-3.py-md-4(titulo="Mediana")
