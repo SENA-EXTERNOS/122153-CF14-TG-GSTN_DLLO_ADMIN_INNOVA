@@ -46,11 +46,11 @@
         figure.mb-5
             img(src='@/assets/curso/temas/tema1/img-3.svg')    
       .col-lg-8
-        TabsA.color-acento-contenido.grs
-          .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Definición de<br> la población")
+        TabsC.color-acento-contenido.grs
+          .tarjeta.color-acento-botones.fnd-3.p-4.mb-4(titulo="Definición de la población")
             p Para definir una población se deben tener en cuenta características que terminan siendo determinantes para el desarrollo de la investigación. El primer criterio a tener en cuenta se refiere a la selección correcta de la población a estudiar porque, de acuerdo con la selección clara de su población, podrá dar una delimitación objetiva permitiendo la organización de los datos requeridos para el estudio. Es importante recordar que hay poblaciones con datos infinitos, pero también estas poblaciones se pueden delimitar con el objetivo de que sus datos sean finitos. Otra característica determinante que le permitirá ubicar, de manera correcta, los datos a ser estudiados es la ubicación cronológica. No es lo mismo estudiar una población determinada en diferentes momentos, porque entran a ponderar variables externas que influyen en los análisis estadísticos que se deseen adelantar.
 
-          .tarjeta.color-acento-botones.fnd-3.p-4(titulo="Tamaño correcto <br>de la muestra")
+          .tarjeta.color-acento-botones.fnd-3.p-4.mb-4(titulo="Tamaño correcto de la muestra")
             p Buscando cómo llegar de manera correcta al tamaño de muestra, la cual busca encontrar esa porción-parte-subconjunto de datos del universo o población que haya sido seleccionada, se deben buscar mecanismos para la reducción de costos en diferentes recursos, como los son económicos, mano de obra y materiales, entre otros, siendo el muestreo un mecanismo que selecciona y delimita la recolección de los datos, porque se puede realizar en menor tiempo y también permite el estudio en poblaciones muy grandes.
             p Para hallar el tamaño de muestra estadísticamente, se desarrollan métodos, por lo cual es importante identificar el nivel de confianza, siendo este un grado de certeza o probabilidad expresado en porcentajes con el que se pretende realizar la estimación de un parámetro a través de un estadístico muestral “fórmula”.  
 
